@@ -1,0 +1,6 @@
+
+
+import father
+
+
+father.eat()
