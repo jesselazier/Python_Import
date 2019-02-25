@@ -1,6 +1,4 @@
+import requests
 
-
-import father
-
-
-father.eat()
+text=requests.get('http://www.baidu.com')
+print(text.content)
